@@ -1,0 +1,61 @@
+<!-- Write code below 💖 -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+     body {
+       width: 85%;
+       margin: auto;
+      }
+
+      h1 {
+       text-align: left;
+      }
+
+      img {
+        border: 3px solid blue;
+      }
+
+      #top-8-wrapper {
+       text-align: center;
+       }
+
+      .friend-card {
+       display: inline-block;
+       margin: 1px;
+       text-align: center;
+      }
+
+      .friend-name {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="top-8-wrapper">
+      <h1>My Top Friends</h1>
+      <div class="top-8-row">
+
+        <div class="friend-card">
+          <h2 class="friend-card">Debayan</h2>
+          <img alt="Debayan as Shiba Inu" src="https://d.newsweek.com/en/full/2272085/balltze-dog-aka-cheems.jpg?w=1200&f=71ee4727a1220e3ed16bb7754fbadb14">
+        </div>
+
+        <div class="friend-card">
+          <h2 class="friend-card">Niharika</h2>
+          <img alt="Niharika as Devil Emoji" src="https://p.turbosquid.com/ts-thumb/Aj/R1RLMF/mNyKhDcQ/lowres1/png/1563227240/1920x1080/fit_q87/0efa086455fa0a42ef3c1d368438593199307eff/lowres1.jpg">
+        </div>
+
+        <div class="friend-card">
+          <h2 class="friend-card">Princy</h2>
+          <img alt="Princy as Angel emoji" src="https://img.freepik.com/premium-vector/angel-emoji-face-with-smiling-eyes-halo_248162-105.jpg">
+        </div>
+
+          <div class="friend-card">
+          <h2 class="friend-card">Sinchan</h2>
+          <img alt="Sinchan as Bad Bitch" src="https://ih1.redbubble.net/image.5728907707.0124/st,small,507x507-pad,600x600,f8f8f8.jpg">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

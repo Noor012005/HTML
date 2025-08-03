@@ -1,0 +1,24 @@
+<!-- Write code below 💖 -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Family Tree</title>
+  </head>
+  <body>
+    <p>Mamma's Side</p>
+    <ol>
+      <li>Bade Mama</li>
+      <li>Majle Mama</li>
+      <li>Dr. Mama</li>
+      <li>Khala Ammi</li>
+      <li>Awes Mama</li>
+      <li>Mamma</li>
+    </ol>
+    <p>Abbu's Side</p>
+    <ol>
+      <li>Abbu</li>
+      <li>Chachu</li>
+      <li>Phupee</li>
+    </ol>
+  </body>
+</html>

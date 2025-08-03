@@ -1,0 +1,24 @@
+<!-- Google Search 🔍 -->
+<!-- Codédex -->
+✏️ The <input> Tag — What’s It Doing?
+The <input> tag is used to create interactive fields inside a form — things the user can type into or click on, like text boxes, radio buttons, checkboxes, etc.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google</title>
+  </head>
+  <body>
+    <form>
+      <p>Search the web using Google!</p>
+      <input type="text" /><br>   <!--This creates a text box where the user can type something.-->
+      <input type="submit" value="Google Search" />   <!-- This creates a submit button, type="submit" tells the browser: "When clicked, submit the form.", value="Google Search" is what shows on the button.-->
+    </form>
+  </body>
+</html>
+🧠 So What Happens ?
+The user types something in the first box.
+
+Then clicks the second input (the "Google Search" button).
+
+The form would normally send that input somewhere (to a server or a URL) — but this example doesn’t include that part yet.

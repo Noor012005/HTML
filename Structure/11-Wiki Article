@@ -1,0 +1,14 @@
+<!-- Write code below 💖 -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Wiki Article</title>
+  </head>
+  <body>
+    <h1>BIOGRAPHY</h1>
+    <img alt="Image of Jackie Chan" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Jackie_Chan_2024.jpg/500px-Jackie_Chan_2024.jpg">
+    <p>Fang Shilong SBS MBE PMW, known professionally as <b>Jackie Chan</b>, is a Hong Kong martial artist, actor and filmmaker, known for his slapstick, acrobatic fighting style, comic timing, and innovative stunts, which he typically performs himself.</p>
+    <a href="https://en.wikipedia.org/wiki/Jackie_Chan" target="_blank">Visit For more info</a>
+  </body>
+</html>
